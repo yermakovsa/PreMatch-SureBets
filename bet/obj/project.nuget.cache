@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZqqGg5dPlFxCS0W0OAIbO8XzKnGI+ssFs5286DYMXka3v8i2ivMIML9cklY2eigbHgWyLhn88Rr7RmOPtmzoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Entin\\Documents\\Programs\\tennis\\bet\\bet\\bet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Entin\\.nuget\\packages\\brotlisharplib\\0.3.3\\brotlisharplib.0.3.3.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\duovia.fuzzystrings\\2.0.1\\duovia.fuzzystrings.2.0.1.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\portable.bouncycastle\\1.8.5.2\\portable.bouncycastle.1.8.5.2.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Entin\\.nuget\\packages\\titanium.web.proxy\\3.1.1301\\titanium.web.proxy.3.1.1301.nupkg.sha512"
+  ],
+  "logs": []
+}
